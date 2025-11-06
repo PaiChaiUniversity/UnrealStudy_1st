@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/lokim/Downloads/UnrealStudy/UnrealStudy/Content/Shooting/Blueprints/BP_Player.uasset",
+				"C:/Users/lokim/Downloads/UnrealStudy/UnrealStudy/Content/Shooting/Input/IMC_Input.uasset",
+				"C:/Users/lokim/Downloads/UnrealStudy/UnrealStudy/Content/Shooting/Input/IA_Horizontal.uasset",
+				"C:/Users/lokim/Downloads/UnrealStudy/UnrealStudy/Content/Shooting/Input/IA_Vertical.uasset",
+				"C:/Users/lokim/Downloads/UnrealStudy/UnrealStudy/Content/Shooting/Blueprints/BP_Bullet.uasset",
+				"C:/Users/lokim/Downloads/UnrealStudy/UnrealStudy/Content/Shooting/ShootingMap.umap",
+				"C:/Users/lokim/Downloads/UnrealStudy/UnrealStudy/Content/Shooting/Input/IA_Fire.uasset",
+				"C:/Users/lokim/Downloads/UnrealStudy/UnrealStudy/Content/Shooting/Blueprints/BP_Enemy.uasset",
+				"C:/Users/lokim/Downloads/UnrealStudy/UnrealStudy/Content/Shooting/Blueprints/BP_EnemyManager.uasset",
+				"C:/Users/dkxm/Documents/Unreal Projects/UnrealStudy/Content/Interia/InteriaMap.umap",
+				"C:/Users/dkxm/Documents/Unreal Projects/UnrealStudy/Content/Interia/MatWall.uasset",
+				"C:/Users/dkxm/Documents/Unreal Projects/UnrealStudy/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/dkxm/Documents/Unreal Projects/UnrealStudy/Content/Interia/BP_Coding.uasset",
+				"C:/Users/dkxm/Documents/Unreal Projects/UnrealStudy/Content/Shooting/ShootingMap.umap",
+				"C:/Users/dkxm/Documents/Unreal Projects/UnrealStudy/Content/Shooting/Blueprints/BP_ShootingGameMode.uasset",
+				"C:/Users/dkxm/Documents/Unreal Projects/UnrealStudy/Content/Shooting/Blueprints/BP_Player.uasset",
+				"C:/Users/dkxm/Documents/Unreal Projects/UnrealStudy/Content/Interia/NewBlueprint.uasset"
+			]
+		}
+	]
+}
